@@ -14,7 +14,6 @@ else
       min_value = value
     end
   end
-  min_key
-    end
-  
+    min_key
+  end
 end
